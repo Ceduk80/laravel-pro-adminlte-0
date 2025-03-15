@@ -179,7 +179,7 @@
                   class="user-image rounded-circle shadow"
                   alt="User Image"
                 />
-                <span class="d-none d-md-inline">Alexander Pierce</span>
+                <span class="d-none d-md-inline">Cadu Dev</span>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                 <!--begin::User Image-->
@@ -952,6 +952,7 @@
                         <!-- End Contact Item -->
                         <li>
                           <a href="#">
+                            $bootstrap-icons-font-dir: "../fonts" !default;
                             <img
                               class="contacts-list-img"
                               src="../../dist/assets/img/user7-128x128.jpg"
